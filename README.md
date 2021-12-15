@@ -1,1 +1,7 @@
-# 2020HS-DevOps-Group3
+## Private Organisation
+- Project Repositories have been made private as we noticed other stealing our work.
+- Kindly request for access by raising a PR for the README.md file.
+
+---
+Enter your username below:
+1. @GeneralNitin
