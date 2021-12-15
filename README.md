@@ -1,6 +1,6 @@
 ## Private Organisation
 - Project Repositories have been made private as we noticed others stealing our work.
-- Kindly request for access by raising a PR for the README.md file.
+- Raise a Pull Request for README.md file to get the access.
 
 ---
 Enter your username below:
