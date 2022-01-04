@@ -1,6 +1,6 @@
 ## Private Organisation
 - Project Repositories have been made private due to many reasons.
-- Please raise a Pull Request for this file to get the access.
+- Please raise a Pull Request against this file to get the access.
 
 ---
 Enter your username below:
